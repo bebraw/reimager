@@ -7,6 +7,9 @@
   },
   "dependencies": {
     "express": "3.4.5",
-    "jade": "*"
+    "jade": "*",
+    "require-dir": "~0.1.0",
+    "request": "~2.27.0",
+    "tmp": "0.0.21"
   }
 }
